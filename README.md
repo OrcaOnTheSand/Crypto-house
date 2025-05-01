@@ -1,6 +1,5 @@
 # Auction House Bitcoin Website
-[Live Site Link Here - Click to Visit](https://yourlivelink.com)
-)
+Live Site Link ](orcaonthesand.github.io.)
 
 ## Introduction
 This project is a responsive auction house website that allows users to log in, view live bidding items, and learn about the business, with support for Bitcoin transactions. It is built using HTML5, CSS3, and Bootstrap for layout and responsiveness.
