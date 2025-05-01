@@ -27,7 +27,7 @@ This project is a responsive auction house website that allows users to log in, 
 
 ### Design Choices
 
-![Color Palette](assets/images/color-palette.png)
+
 - Text color: White and black text
 - Background: Dark navigation and light background for readability
 - Typography: Using modern sans-serif fonts for clean readability
@@ -36,9 +36,9 @@ This project is a responsive auction house website that allows users to log in, 
 - Wireframes:
   - Revised to include carousel home page and simplified navigation
 
-![View Wireframes Here](assets/images/wireframes.png)
 
-## Development Process
+
+
 
 ### Features
 - Responsive navigation bar
@@ -87,10 +87,8 @@ This project is a responsive auction house website that allows users to log in, 
 ### Automated Testing
 #### W3C Validator
 - HTML and CSS passed through W3C validator with minor warnings.
-- ![HTML Validator Screenshot](assets/images/html-validator.png)
 
-#### CSS Jigsaw Validator
-- ![CSS Validator Screenshot](assets/images/css-validator.png)
+
 
 #### Lighthouse
 **Desktop Report:**
@@ -111,7 +109,7 @@ This project is a responsive auction house website that allows users to log in, 
 - Each persona scenario was tested manually.
 
 #### Full Testing
-- Devices: Desktop, Laptop, iPhone 12, Galaxy S10
+- Devices: Desktop, Laptop, 
 - Browsers: Chrome, Firefox, Edge, Safari
 
 #### Full Page Testing
@@ -133,7 +131,7 @@ This project is a responsive auction house website that allows users to log in, 
 - Original written content
 
 ### Media
-- Images from Pexels and Unsplash
+- Images from Unsplash
 
 ### Research Material
 - MDN Web Docs
