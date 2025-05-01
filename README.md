@@ -1,21 +1,19 @@
 # Auction House Bitcoin Website
-Live Site Link orcaonthesand.github.io.
+[Live Site Link Here - Click to Visit](https://orcaonthesand.github.io./)
+
+
 
 ## Introduction
 This project is a responsive auction house website that allows users to log in, view live bidding items, and learn about the business, with support for Bitcoin transactions. It is built using HTML5, CSS3, and Bootstrap for layout and responsiveness.
 
-## User Experience (UX)
 
-### User Stories (US)
-
-#### Persona 1: Buyer
 1. As a buyer, I want to easily access auctions so that I can place bids on items.
    - Tasks:
      - Navigate to the bidding section.
      - View active items.
      - Place bids securely.
 
-#### Persona 2: First-time Visitor
+## Persona 2: First-time Visitor
 1. As a visitor, I want to learn about the auction house so that I can decide whether to use the service.
    - Tasks:
      - Visit the About page.
